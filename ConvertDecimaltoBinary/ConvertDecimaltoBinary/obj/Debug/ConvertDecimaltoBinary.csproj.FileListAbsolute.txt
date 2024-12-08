@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\bin\Debug\ConvertDecimaltoBinary.exe.config
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\bin\Debug\ConvertDecimaltoBinary.exe
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\bin\Debug\ConvertDecimaltoBinary.pdb
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\obj\Debug\ConvertDecimaltoBinary.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\obj\Debug\ConvertDecimaltoBinary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\obj\Debug\ConvertDecimaltoBinary.exe
+C:\Users\Owner\source\repos\ConvertDecimaltoBinary\ConvertDecimaltoBinary\obj\Debug\ConvertDecimaltoBinary.pdb
